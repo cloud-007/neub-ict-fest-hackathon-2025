@@ -1,4 +1,4 @@
-# Welcome to NEUB ICT Fest Hackathon 2026
+# Welcome to NEUB ICT Fest Hackathon 2025
 
 ## Introduction
 Welcome to the **NEUB ICT Fest Hackathon 2025!**  
